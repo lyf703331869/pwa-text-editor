@@ -28,8 +28,8 @@ module.exports = () => {
         display: "standalone",
         background_color: "#225ca3",
         theme_color: "#225ca3",
-        start_url: "./",
-        publicPath: "./",
+        start_url: "/",
+        publicPath: "/",
         fingerprint: false,
         inject: true,
         icons: [
